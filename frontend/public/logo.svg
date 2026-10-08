@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OccasionWear logo">
+  <rect width="64" height="64" rx="12" fill="#171717"/>
+  <rect x="3" y="3" width="58" height="58" rx="9" fill="none" stroke="#C9A86A" stroke-width="1.5"/>
+  <text x="32" y="41" font-family="Georgia, serif" font-size="26" font-weight="600" fill="#C9A86A" text-anchor="middle">OW</text>
+</svg>
